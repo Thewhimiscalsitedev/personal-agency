@@ -40,5 +40,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Claude Code
+# AI instruction files — local only
 .claude/
+CLAUDE.md
+AGENTS.md
+.cursorrules
+.cursor/
+.github/copilot-instructions.md
